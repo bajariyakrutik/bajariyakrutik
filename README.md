@@ -1,5 +1,5 @@
 ### Hi there 👋 <br> I am Krutik Bajariya
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bajariyakrutik.bajariyakrutik)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bajariyakrutik.bajariyakrutik?label=Visitors)
 [![Followers](https://img.shields.io/github/followers/bajariyakrutik?label=Followers&logo=Github)](https://github.com/bajariyakrutik)
 
 #### 🧰 Languages and Tools :
