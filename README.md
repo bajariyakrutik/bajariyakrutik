@@ -1,6 +1,6 @@
 ### Hi there 👋 <br> I am Krutik Bajariya
 ![](https://visitor-badge.laobi.icu/badge?page_id=bajariyakrutik.bajariyakrutik)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/bajariyakrutik)
+[![Github](https://img.shields.io/github/followers/bajariyakrutik?label=Follow&style=social)](https://github.com/bajariyakrutik)
 
 #### Languages and Tools :
 
