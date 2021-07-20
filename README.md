@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google_colab)
 
-#### Connect with me :
+#### 📫Connect with me :
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/krutik_bajariya)  -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krutik-bajariya-8a4b6b158/) 
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/krutik_bajariya/)
