@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=bajariyakrutik.bajariyakrutik)
 [![Github](https://img.shields.io/github/followers/bajariyakrutik?label=Followers&style=social)](https://github.com/bajariyakrutik)
 
-#### Languages and Tools :
+#### 🧰 Languages and Tools :
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -22,13 +22,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Colab](https://img.shields.io/badge/-Colab-181717?style=flat-square&logo=google_colab)
 
-#### 📫Connect with me :
+#### :email: Connect with me :
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/krutik_bajariya)  -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/krutik-bajariya-8a4b6b158/) 
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/krutik_bajariya/)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:krutikbajariya123@gmail.com)
 
-### ⚡My GitHub Stats:
+### :trophy: My GitHub Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=bajariyakrutik&show_icons=true&theme=tokyonight&line_height=40&count_private=true&include_all_commits=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajariyakrutik&theme=tokyonight&line_height=40">
