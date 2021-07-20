@@ -13,7 +13,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/krutik_bajariya/)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:krutikbajariya123@gmail.com)
 
-### My GitHub Stats:
+### ⚡My GitHub Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=bajariyakrutik&show_icons=true&theme=tokyonight&line_height=40&count_private=true&include_all_commits=true">
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajariyakrutik&theme=tokyonight">-->
