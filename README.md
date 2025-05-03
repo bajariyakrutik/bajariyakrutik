@@ -58,8 +58,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bajariyakrutik&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajariyakrutik&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bajariyakrutik&show_icons=true&theme=vue-dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajariyakrutik&layout=compact&theme=vue-dark" height="180"/>
 </p>
 
 ---
