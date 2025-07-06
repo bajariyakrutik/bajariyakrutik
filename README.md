@@ -30,28 +30,30 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PLSQL-%23E34F26.svg?logo=oracle&logoColor=white" height="40" alt="PL/SQL"/>
-  <img src="https://img.shields.io/badge/NoSQL-%230073B5.svg?logo=mongodb&logoColor=white" height="40" alt="NoSQL"/>
-  <img src="https://img.shields.io/badge/ETL-4B8BBE?logo=dataiku&logoColor=white" height="40" alt="ETL"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white" height="40" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white" height="40" alt="Looker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" height="40" alt="MacOS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" height="40" alt="AWS"/>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" title="Python" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square" alt="C" title="C" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL" title="MySQL" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/PLSQL-%23E34F26.svg?logo=oracle&logoColor=white&style=flat-square" alt="PL/SQL" title="PL/SQL" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white&style=flat-square" alt="NoSQL" title="NoSQL" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/ETL-4B8BBE?logo=dataiku&logoColor=white&style=flat-square" alt="ETL" title="ETL" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" alt="Tableau" title="Tableau" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white&style=flat-square" alt="Looker" title="Looker" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square" alt="MATLAB" title="MATLAB" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" title="Git" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" title="GitHub" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML" title="HTML" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS" title="CSS" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" title="JavaScript" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" title="Bootstrap" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" title="Linux" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=white&style=flat-square" alt="MacOS" title="MacOS" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" alt="Windows" title="Windows" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VS Code" title="VS Code" style="margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS" title="AWS" style="margin-right: 8px;" />
 
 </p>
+
 
 ---
 
