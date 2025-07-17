@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bajariyakrutik.bajariyakrutik)
 
 <h1 align="center">Hi 👋, I'm Krutik Bajariya</h1>
-<h3 align="center">Data Engineer • Machine Learning Enthusiast • Software Developer</h3>
+<h3 align="center">Data Engineer • Machine Learning & AI Enthusiast </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krutikbajariya/">
