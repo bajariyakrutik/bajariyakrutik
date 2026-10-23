@@ -49,6 +49,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bajariyakrutik&theme=github_dark" height="160" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bajariyakrutik&theme=github_dark" height="160" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bajariyakrutik&theme=github_dark" width="32%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bajariyakrutik&theme=github_dark" width="32%" alt="Top languages by repo" />
+  <img src="https://streak-stats.demolab.com/?user=bajariyakrutik&theme=github-dark-blue&hide_border=true&disable_animations=true&card_width=340&card_height=200" width="32%" alt="GitHub streak" />
 </p>
