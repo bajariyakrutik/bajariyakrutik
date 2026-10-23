@@ -2,6 +2,9 @@
 <h3 align="center">Data Engineer · Building data pipelines & ML systems for environmental forecasting</h3>
 
 <p align="center">
+  <a href="https://bajariyakrutik.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/krutikbajariya/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
@@ -36,9 +39,9 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Stock Market Analysis Pipeline](https://github.com/bajariyakrutik/Stock-Market-Analysis-Pipeline-PySpark) | End-to-end pipeline for ingesting and analysing stock market data | PySpark, Python |
-| [Zero to Snowflake](https://github.com/bajariyakrutik/Zero-to-Snowflake) | Hands-on data warehousing with Snowflake | Snowflake, SQL, Python |
-| [Chemotherapy Suitability Prediction](https://github.com/bajariyakrutik/chemotherapy_suitability_prediction) | Predicts chemotherapy suitability for cancer patients from gene data | Python, ML |
+| [Stock Market Analysis Pipeline](https://github.com/bajariyakrutik/Stock-Market-Analysis-Pipeline-PySpark) | ETL over 25+ years of stock data: technical indicators, portfolio risk metrics, Tableau-ready output ([dashboards](https://public.tableau.com/app/profile/krutik.bajariya/vizzes)) | PySpark, Python, Tableau |
+| [Zero to Snowflake](https://github.com/bajariyakrutik/Zero-to-Snowflake) | Warehouses, dynamic-table pipelines, Cortex AI SQL, governance and masking policies, Streamlit dashboard | Snowflake, SQL, Streamlit |
+| [Chemotherapy Suitability Prediction](https://github.com/bajariyakrutik/chemotherapy_suitability_prediction) | SVM model predicting chemotherapy suitability from gene expression data, served via a Flask app | Python, scikit-learn, Flask |
 | [Matrix Multiplication with MapReduce](https://github.com/bajariyakrutik/matrix-multiplication-mapreduce) | Distributed matrix multiplication on Hadoop | Java, Hadoop |
 
 ---
